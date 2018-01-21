@@ -1,0 +1,7 @@
+**/dynamo
+**/DynamoDBLocal_lib
+**/third_party_licenses
+shared-local-instance.db
+DynamoDBLocal.jar
+LICENSE
+LICENSE.txt
